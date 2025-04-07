@@ -6,21 +6,6 @@
 - 📊 **Análise de Dados**: Certificados em Python, Power BI e Excel
 - 📅 Atualizado em: 07/04/2025
 
-## 🗂️ Estrutura Organizada
-
-Certificados/
-├── 📂 Formação_Acadêmica/
-│    └── 📜 Diploma_de_Mestrado.jpg
-├── 📂 Análise_de_Dados/
-│    ├── 📜 analise_dados_python.pdf
-│    ├── 📜 programacao_python.pdf
-│    ├── 📜 Excel.pdf
-│    └── 📜 powerBl.pdf
-├── 📂 Outros/
-│    ├── 📜 Certificado_ABNT_NBR_ISO_JEC_17025_2017.pdf
-│    └── 📜 Certificado_Fundamentos_da_Metrologia.pdf
-└── 📜 README.md
-
 ## 📌 Principais Certificados
 
 ### 1. Análise de Dados com Python
