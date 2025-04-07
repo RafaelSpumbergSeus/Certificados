@@ -25,26 +25,14 @@
 ## 📊 Próximos Objetivos 2025-2027
 
 - [ ] **Finalizar Graduação em Ciência de Dados e Inteligência Artificial** 
-- [ ] **Power BI DA-100**  
-  ![Progresso](https://img.shields.io/badge/Progresso-65%25-yellow) 
+- [ ] **Power BI DA-100**   
 - [ ] **Formação Machine Learning**  
-  ![Carga Horária](https://img.shields.io/badge/Carga_Horária-120h-blue)  
 
-### ☁️ Cloud & Data Platforms (2025-2026)
+### ☁️ Cloud & Data Platforms 
 
-#### Microsoft Azure
-- [ ] AZ-900: Azure Fundamentals  
-- [ ] DP-203: Data Engineering  
-- [ ] AI-900: AI Fundamentals
-
-#### AWS
-- [ ] AWS Certified Solutions Architect  
-- [ ] AWS Certified Data Analytics  
-
-#### Databricks
-- [ ] Databricks Certified Associate Developer  
-- [ ] Databricks Certified Data Engineer  
-
+- [ ] **Microsoft Azure**
+- [ ] **AWS**
+- [ ] **Databricks**
 
 ## 📌 Como Navegar nos Certificados
 
@@ -54,5 +42,5 @@
 ---
 
 📫 **Contato Profissional**: [rafaelspumberg31@gmail.com]  
-🔗 **LinkedIn**: [linkedin.com/in/rafael-spumberg]  
+🔗 **LinkedIn**: [[linkedin.com/in/rafael-spumberg](https://www.linkedin.com/in/rafael-spumberg/)]  
 📚 **Portfólio Completo**: [https://rafaelspumbergseus.github.io/Portifolio/]  
