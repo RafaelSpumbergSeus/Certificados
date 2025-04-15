@@ -4,7 +4,7 @@
 
 - 🎓 **Mestrado**: Diploma comprovando minha formação acadêmica avançada
 - 📊 **Análise de Dados**: Certificados em Python, Power BI e Excel
-- 📅 Atualizado em: 07/04/2025
+- 📅 Atualizado em: 15/04/2025
 
 ## 📌 Principais Certificados
 
