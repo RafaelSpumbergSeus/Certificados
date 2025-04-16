@@ -42,5 +42,5 @@
 ---
 
 📫 **Contato Profissional**: [rafaelspumberg31@gmail.com]  
-🔗 **LinkedIn**: [[linkedin.com/in/rafael-spumberg](https://www.linkedin.com/in/rafael-spumberg/)]  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/rafael-spumberg/]  
 📚 **Portfólio Completo**: [https://rafaelspumbergseus.github.io/Portifolio/]  
