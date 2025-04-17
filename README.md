@@ -42,6 +42,10 @@
 
 ---
 
-📫 **Contato Profissional**: [rafaelspumberg31@gmail.com]  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/rafael-spumberg/]  
-📚 **Portfólio Completo**: [https://rafaelspumbergseus.github.io/Portifolio/]  
+# 📌 Contatos Profissionais  
+
+Abaixo estão meus principais canais de contato:  
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelspumberg31@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-spumberg/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://rafaelspumbergseus.github.io/Portifolio/)  
