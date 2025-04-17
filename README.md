@@ -4,6 +4,7 @@
 
 - 🎓 **Mestrado**: Diploma comprovando minha formação acadêmica avançada
 - 📊 **Análise de Dados**: Certificados em Python, Power BI e Excel
+- ✅ Último certificado adquirido: **Microsoft AI for Tech - Azure Databricks** 
 - 📅 Atualizado em: 16/04/2025
 
 ## 📌 Principais Certificados
